@@ -5,7 +5,6 @@ Exercícios de Python 3 feitos ao longo do curso Python 3 - Mundo 1 do [Curso em
 
 ## Tecnologias usadas
 - Python 3.9.2
-- PyCharm Community
 
 ---
 
